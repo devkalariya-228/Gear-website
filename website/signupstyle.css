@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  #signUpForm input {
+    height: 45px;
+  }
+  
+  #signUpForm button {
+    height: 50px;
+  }
+  

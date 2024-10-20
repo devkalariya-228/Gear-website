@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  #paymentMethod {
+    height: 45px;
+  }
+  
+  .payment-fields input {
+    height: 45px;
+  }
+  
+  .payment-fields button {
+    height: 50px;
+  }
+  

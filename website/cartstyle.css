@@ -1,0 +1,17 @@
+.card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+#cartButton {
+    position: relative;
+}
+
+.badge {
+    font-size: 0.8rem;
+    padding: 5px;
+}
